@@ -1,4 +1,4 @@
 # Pokemon
-Simple 2D android game using game engine developed by Dr Phil Hanna. 2nd year team project.
+Simple 2D android game build on modified game engine developed by Dr Phil Hanna
 
 ![pokemon](pokemon.png)
